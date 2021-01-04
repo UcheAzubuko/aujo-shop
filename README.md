@@ -1,4 +1,4 @@
-# ecommerce-app
+# aujo-shop
 
 ## Project setup
 ```
